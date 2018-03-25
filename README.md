@@ -1,0 +1,2 @@
+# DsAlgDesignPatternsOOOFund
+WebsiteForLearningandTeachingTheFundamentals
